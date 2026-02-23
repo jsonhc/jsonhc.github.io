@@ -3,18 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: mskk 的个人博客
-subtitle: 大家我都喜欢哦
-description: Everyone I like
+title: starttech 的个人博客
+subtitle: 一起成长
+description: 
 keywords:
-  - mskk
-  - Dora Honor
+  - starttech
   - 博客
   - 部落格
   - blog
   - Hexo
   - Butterfly
-author: Dora Honor
+author: starttech
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
