@@ -1,0 +1,68 @@
+# 说说数据文件
+# 格式说明：
+# - date: # 日期时间，格式为 YYYY-MM-DD HH:MM:SS
+  # key: # 唯一标识符
+  # content: |
+    # 内容
+  # tags: 
+    # - 标签 1
+    # - 标签 2
+
+- date: 2024-06-01 12:00:00
+  key: first-shuoshuo
+  content: |
+    这是我的**第一条**说说。
+  tags: 
+    - 欢迎
+    - 说说
+
+- date: 2026-01-04 06:30:00
+  key: zzz-station
+  content: |
+    截止 2026 年 1 月 4 日，我的官服绝区零站点**已满员，无法再申请**。感谢大家的支持！
+  tags: 
+    - 绝区零
+    - 米哈游
+    - 米游
+
+- date: 2026-01-05 18:22:56
+  key: new-year-2026
+  content: |
+    新年快乐！祝大家在 2026 年身体健康，万事如意！
+    寒假结束，又要回归状态学习旅程了，加油！
+  tags: 
+    - 新年
+    - 祝福
+    - 日常
+
+- date: 2026-01-15 16:05:30
+  key: leancloud-eos
+  content: |
+    悲报：今天在 LeanCloud 控制台收到了有关明年停服的通知。
+    这个月 12 号就停止了新用户注册和应用创建，在明年 1 月 12 号之内仍可使用。
+    而 Waline 评论系统的数据均托管在 LeanCloud 上，目前正研究如何顺利迁移至 TiDB Cloud 中。
+  tags:
+    - LeanCloud
+    - Waline
+    - 停服
+    - 数据迁移
+    - 日常
+
+- date: 2026-01-19 15:45:00
+  key: db-transfer
+  content: |
+    今天已成功将 Waline 评论系统的数据从 LeanCloud 迁移至 TiDB Cloud，评论系统现已恢复正常运行。数据也完好无损。
+    与此同时，数据库端 TiDB Cloud 和服务端 Vercel 所在国家／地区均选择了新加坡，访问速度比以前用 LeanCloud 时更快了！
+  tags:
+    - 数据迁移
+    - TiDB Cloud
+    - Waline
+    - 日常
+
+- date: 2026-01-22 11:39:00
+  key: return-to-china
+  content: |
+    马上就放假，且买好了机票，终于能在年前回国一阵子了！
+  tags:
+    - 回国
+    - 日常
