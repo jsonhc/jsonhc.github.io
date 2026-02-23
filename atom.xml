@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <author>
-    <name>Dora Honor</name>
+    <name>starttech</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
   <id>https://jsonhc.github.io/</id>
   <link href="https://jsonhc.github.io/" rel="alternate"/>
   <link href="https://jsonhc.github.io/atom.xml" rel="self"/>
-  <rights>All rights reserved 2026, Dora Honor</rights>
-  <subtitle>大家我都喜欢哦</subtitle>
-  <title>mskk 的个人博客</title>
+  <rights>All rights reserved 2026, starttech</rights>
+  <subtitle>一起成长</subtitle>
+  <title>starttech 的个人博客</title>
   <updated>2024-06-30T16:00:00.000Z</updated>
   <entry>
     <author>
-      <name>Dora Honor</name>
+      <name>starttech</name>
     </author>
     <category term="随笔" scheme="https://jsonhc.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     <category term="随笔" scheme="https://jsonhc.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
