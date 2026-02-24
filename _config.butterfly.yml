@@ -529,35 +529,6 @@ comments:
   # Display comment count in Home Page
   card_post_count: false
 
-# Disqus
-# https://disqus.com/
-disqus:
-  shortname:
-  # For newest comments widget
-  apikey:
-
-# Alternative Disqus - Render comments with Disqus API
-# https://github.com/SukkaW/DisqusJS
-disqusjs:
-  shortname:
-  apikey:
-  option:
-
-# Livere
-# https://www.livere.com/
-livere:
-  uid:
-
-# Gitalk
-# https://github.com/gitalk/gitalk
-gitalk:
-  client_id:
-  client_secret:
-  repo:
-  owner:
-  admin:
-  option:
-
 # Valine
 # https://valine.js.org
 valine:
@@ -574,7 +545,7 @@ valine:
 # Waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
 waline:
-  serverURL: https://comment.dorahonor.me/
+  serverURL: https://comment.starttech.dpdns.org
   # serverURL1: https://comment.dorahonor.me/
     # UI: https://comment.dorahonor.me/ui
   bg: /img/background/citlali.webp
