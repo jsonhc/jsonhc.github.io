@@ -2,33 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jsonhc.github.io/manifest.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/tsconfig.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/privacy/index.html</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://jsonhc.github.io/shuoshuo/index.html</loc>
     
     <lastmod>2026-02-24</lastmod>
@@ -47,187 +20,7 @@
   </url>
   
   <url>
-    <loc>https://jsonhc.github.io/live2d-widget/package.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/renovate.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/waifu-tips.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/model/HuTao2/character-costume.model3.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/model/HuTao/character-costume.model3.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/model/Furina/Furina.model3.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/model/Furina/Furina.vtube.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/model/Furina/items_pinned_to_model.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/model/Furina/Furina.physics3.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/model/Furina/Furina.cdi3.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/model/Furina/Exp/-_-.exp3.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/model/Furina/Exp/0_0.exp3.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/model/Furina/Exp/BuOu.exp3.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/model/Furina/Exp/HaiXiu.exp3.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/model/Furina/Exp/HeiLian.exp3.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/model/Furina/Exp/O.exp3.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/model/Furina/Exp/XingXing.exp3.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/model/Firefly/character-costume.model3.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/model/Elysia/character-costume.model3.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/dist/model/Cyrene/character-costume.model3.json</loc>
-    
-    <lastmod>2026-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/live2d-widget/README.html</loc>
+    <loc>https://jsonhc.github.io/manifest.json</loc>
     
     <lastmod>2026-02-24</lastmod>
     
@@ -245,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://jsonhc.github.io/live2d-widget/README.en.html</loc>
+    <loc>https://jsonhc.github.io/privacy/index.html</loc>
     
     <lastmod>2026-02-24</lastmod>
     
@@ -263,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://jsonhc.github.io/categories/index.html</loc>
+    <loc>https://jsonhc.github.io/about/index.html</loc>
     
     <lastmod>2026-02-24</lastmod>
     
@@ -272,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://jsonhc.github.io/about/index.html</loc>
+    <loc>https://jsonhc.github.io/categories/index.html</loc>
     
     <lastmod>2026-02-24</lastmod>
     
