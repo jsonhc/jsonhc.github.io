@@ -52,10 +52,6 @@ code_blocks:
 # Social media links
 # Formal:
 #   icon: link || the description || color
-social:
-  fas fa-house: https://starttech.dpdns.org || Home # || '#ff6f61'
-  fas fa-link: https://starttech.dpdns.org || 引导页 # || '#6f42c1'
-  fab fa-github: https://github.com/jsonhc || Github # || '#24292e'
 
 # --------------------------------------
 # Image Settings
@@ -264,54 +260,6 @@ noticeOutdate:
 # --------------------------------------
 # Footer Settings
 # --------------------------------------
-footer:
-  nav:
-    - width:
-      content:
-        - title: 导航
-          item:
-            - title: 首页
-              url: /
-            - title: 归档
-              url: /archive/
-            - title: 标签
-              url: /tags/
-            - title: 分类
-              url: /categories/
-            - title: 友链
-              url: /link/
-            - title: 说说
-              url: /shuoshuo/
-            - title: 留言板
-              url: /comments/
-            - title: 关于
-              url: /about/
-            - title: 隐私政策
-              url: /privacy/
-    - content:
-        - title: 娱乐和 Feed
-          item:
-            - title: Feed
-              url: /atom.xml
-    - content:
-        - title: 模板和源码
-          item:
-            - title: Hexo
-              url: https://hexo.io/
-            - title: Butterfly 主题
-              url: https://butterfly.js.org/
-            - title: GitHub
-              url: https://github.com/jsonhc
-  owner:
-    enable: true
-    since: 2025
-  # Copyright of theme and framework
-  copyright:
-    enable: true
-    version: true
-  custom_text: |
-    <p>欢迎来到 starttech 的个人博客！</p>
-    <p><a href="https://icp.gov.moe/?keyword=20260024" target="_blank"><img src="/img/moe/icon400.png" alt="moe" height="12"> 沪 ICP 备 20260224 号</a></p>
 
 # --------------------------------------
 # Aside Settings
