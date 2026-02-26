@@ -94,7 +94,7 @@ EOF
 [root@localhost ~]# systemctl status k3s
 ```
 
-![k3s2](k3s2.png)
+![k3s2](/img/article/k3s2.png)
 
 ### 通过k3s部署nginx进行测试
 ```
@@ -148,7 +148,7 @@ kubernetes   ClusterIP      10.43.0.1       <none>            443/TCP          1
 nginx        LoadBalancer   10.43.179.184   192.168.213.110   8081:30768/TCP   56s
 ```
 
-![k3s3](k3s3.png)
+![k3s3](/img/article/k3s3.png)
 
 ### 设置k8s config
 ```bash
@@ -197,18 +197,18 @@ Update Complete. ⎈Happy Helming!⎈
 [root@localhost ~]# helm install cert-manager jetstack/cert-manager --namespace cert-manager --version v1.11.01
 ```
 
-![k3s4](k3s4.png)
+![k3s4](/img/article/k3s4.png)
 
 ### 安装rancher
 ```bash
 [root@localhost ~]# helm install rancher rancher-stable/rancher   --namespace cattle-system   --set hostname=rancher.kolukisa.org   --set bootstrapPassword=admin   --set ingress.tls.source=letsEncrypt   --set letsEncrypt.email=mail@kolukisa.org  --set replicas=1
 ```
 
-![k3s5](k3s5.png)
+![k3s5](/img/article/k3s5.png)
 
 - 安装完成后如下
 
-![k3s6](k3s6.png)
+![k3s6](/img/article/k3s6.png)
 
 * 将rancher的暴露方式修改为LoadBalancer
 ```bash
@@ -232,8 +232,8 @@ rancher                     traefik   rancher.kolukisa.org   192.168.213.110   8
 ### 访问方式
 - 通过ip+port访问
 
-![k3s7](k3s7.png)
+![k3s7](/img/article/k3s7.png)
 
 - 通过域名访问
 
-![k3s8](k3s8.png)
+![k3s8](/img/article/k3s8.png)
