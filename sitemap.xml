@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://jsonhc.github.io/tags/index.html</loc>
-    
-    <lastmod>2026-02-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://jsonhc.github.io/privacy/index.html</loc>
     
     <lastmod>2026-02-26</lastmod>
@@ -47,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://jsonhc.github.io/img/pwa/manifest.json</loc>
+    <loc>https://jsonhc.github.io/tags/index.html</loc>
     
     <lastmod>2026-02-26</lastmod>
     
@@ -56,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://jsonhc.github.io/css/markdown.css</loc>
+    <loc>https://jsonhc.github.io/img/pwa/manifest.json</loc>
     
     <lastmod>2026-02-26</lastmod>
     
@@ -74,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://jsonhc.github.io/comments/index.html</loc>
+    <loc>https://jsonhc.github.io/about/index.html</loc>
     
     <lastmod>2026-02-26</lastmod>
     
@@ -92,7 +83,16 @@
   </url>
   
   <url>
-    <loc>https://jsonhc.github.io/about/index.html</loc>
+    <loc>https://jsonhc.github.io/css/markdown.css</loc>
+    
+    <lastmod>2026-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jsonhc.github.io/comments/index.html</loc>
     
     <lastmod>2026-02-26</lastmod>
     
