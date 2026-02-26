@@ -96,7 +96,7 @@ footer_img: transparent
 
 # Website Background
 # Can set it to color or image url
-background: /img/background/Columbina.webp
+background: /img/background/background.webp
 
 cover:
   # Disable the cover or not
