@@ -2,7 +2,7 @@
 title: 在 CentOS9上安装 Kubernetes1.35集群
 tags: 随笔
 categories: 随笔
-abbrlink: 1243066711
+abbrlink: 1243066713
 date: 2026-02-27 21:00:00
 ---
 

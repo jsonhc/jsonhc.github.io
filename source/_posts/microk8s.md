@@ -2,7 +2,7 @@
 title: install microk8s on centos9
 tags: 随笔
 categories: 随笔
-abbrlink: 1243066711
+abbrlink: 1243066712
 date: 2026-02-26 00:00:00
 ---
 
