@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jsonhc.github.io/manifest.json</loc>
+    <loc>https://jsonhc.github.io/privacy/index.html</loc>
     
     <lastmod>2026-02-27</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://jsonhc.github.io/privacy/index.html</loc>
+    <loc>https://jsonhc.github.io/shuoshuo/index.html</loc>
     
     <lastmod>2026-02-27</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://jsonhc.github.io/shuoshuo/index.html</loc>
+    <loc>https://jsonhc.github.io/manifest.json</loc>
     
     <lastmod>2026-02-27</lastmod>
     
@@ -48,15 +48,6 @@
   
   <url>
     <loc>https://jsonhc.github.io/img/pwa/manifest.json</loc>
-    
-    <lastmod>2026-02-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jsonhc.github.io/css/markdown.css</loc>
     
     <lastmod>2026-02-27</lastmod>
     
@@ -102,6 +93,15 @@
   
   <url>
     <loc>https://jsonhc.github.io/comments/index.html</loc>
+    
+    <lastmod>2026-02-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jsonhc.github.io/css/markdown.css</loc>
     
     <lastmod>2026-02-27</lastmod>
     
