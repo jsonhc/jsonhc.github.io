@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>在 CentOS9上安装 Kubernetes1.35集群</title>
+    <title>使用阿里云ACK集群配置ALB Ingress，实现域名访问</title>
     <url>/posts/1243066715/</url>
     <content><![CDATA[<hr />
 <p>此篇文章主要介绍如何创建阿里云ACK集群，并部署简单的应用，通过域名进行访问</p>

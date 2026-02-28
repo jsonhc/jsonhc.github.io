@@ -10,7 +10,7 @@
   <rights>All rights reserved 2026, starttech</rights>
   <subtitle>一起成长</subtitle>
   <title>starttech 的个人博客</title>
-  <updated>2026-02-28T13:46:05.924Z</updated>
+  <updated>2026-02-28T13:49:24.317Z</updated>
   <entry>
     <author>
       <name>starttech</name>
@@ -29,8 +29,8 @@
 <hr />
 <h3 id="在阿里云控制平台创建ack集群负载均衡架构为alb-ingress"><a class="markdownIt-Anchor" href="#在]]>
     </summary>
-    <title>在 CentOS9上安装 Kubernetes1.35集群</title>
-    <updated>2026-02-28T13:46:05.924Z</updated>
+    <title>使用阿里云ACK集群配置ALB Ingress，实现域名访问</title>
+    <updated>2026-02-28T13:49:24.317Z</updated>
   </entry>
   <entry>
     <author>
@@ -51,7 +51,7 @@
 <h3 id="先决条件"><a class="markdownIt-Anc]]>
     </summary>
     <title>在 CentOS9上安装 Kubernetes1.35集群</title>
-    <updated>2026-02-28T13:46:05.924Z</updated>
+    <updated>2026-02-28T13:49:24.317Z</updated>
   </entry>
   <entry>
     <author>
@@ -70,7 +70,7 @@
 <h3 id="配置aliyu]]>
     </summary>
     <title>install k3s on centos9</title>
-    <updated>2026-02-28T13:46:05.924Z</updated>
+    <updated>2026-02-28T13:49:24.317Z</updated>
   </entry>
   <entry>
     <author>
@@ -88,6 +88,6 @@
       <![CDATA[<h1 id="install-microk8s-on-centos9"><a class="markdownIt-Anchor" href="#install-microk8s-on-centos9"></a> install microk8s on centos9</h1>]]>
     </summary>
     <title>install microk8s on centos9</title>
-    <updated>2026-02-28T13:46:05.924Z</updated>
+    <updated>2026-02-28T13:49:24.317Z</updated>
   </entry>
 </feed>
