@@ -459,7 +459,6 @@ nginx-deployment-59f86b59ff-hm8d5   1/1     Running   0          32s
 ```
 将部署的应用暴露给外部网络
 ```bash
-
 [root@master ~]# cat nginx-svc.yaml
 apiVersion: v1
 kind: Service
